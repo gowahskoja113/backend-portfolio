@@ -1,6 +1,6 @@
-# Fresher Backend Portfolio
+# Backend Portfolio
 
-Hồ sơ fresher backend Java / Spring Boot của Nguyễn Hoàng Ngọc Sơn.
+Hồ sơ backend Java / Spring Boot của Nguyễn Hoàng Ngọc Sơn.
 
 ## Hồ sơ
 
